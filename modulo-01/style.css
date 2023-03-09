@@ -1,0 +1,16 @@
+* {margin:0;padding: o;}
+h1{
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blueviolet;
+    font-size: 12px;
+}
+
+input{
+    width: 200px;
+    background-color: rgba(73, 73, 179, 0.304);
+}
