@@ -1,0 +1,13 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+#exemplo{
+    background-color: violet;
+    height: 200px;
+    width: 200px;
+}
+
+#exemplo:hover{
+    background-color: aqua;
+    height: 800px;
+    width: 800px;
+    transition: 5s;
+}
